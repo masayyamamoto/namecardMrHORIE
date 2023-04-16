@@ -36,8 +36,8 @@ body::after {
   border-top: 1px solid rgba(255,255,255,0.5);
   border-left: 1px solid rgba(255,255,255,0.5);
 
-  width: 380px;
-  height: 600px;
+  width: 300px;
+  height: 480px;
   display: flex;
   align-items: center;
   justify-content: center;
